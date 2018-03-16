@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: qiubaiying@gmail.com
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 刘明的博客, liuming, 刘明, Java, Android, Javascript,React Native,后端，后台"
-url: "http://liuming.github.io"          # your host, for absolute URL
+url: "http://lium115.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
